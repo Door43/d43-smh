@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[smh:home|Door43 (smh)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-smh|d43-smh repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-smh/archive/master.zip|d43-smh.zip]]
+
+**Recent Changes**
+{{changes>ns = smh}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/smh|Ethnologue data]]
+
